@@ -1,0 +1,14 @@
+div.my_wrapper {
+    width: 18rem;
+}
+
+div.container-img {
+    width: 100%;
+    height: 150px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-position: center;
+}

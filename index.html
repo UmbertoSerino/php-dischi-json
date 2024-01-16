@@ -18,16 +18,19 @@
 
 <body>
     <div id="app">
-        <h1>My Albums</h1>
-        <article class="container" v-for="album in albums">
-            <div>
-                <h1> {{album.title}}</h1>
-                <p>{{ album.artist}}</p>
-                <p>{{album.age}}</p>
-                <img :src="album.img" alt="">
+        <h1 class="text-center">My Albums</h1>
+        <article class="container d-flex">
+            <div class="card my_wrapper m-2" v-for="album in albums">
+                <div class="container-img">
+                    <img :src="album.img" class="card-img-top" alt="">
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">{{album.title}}</h5>
+                    <p class="card-text">{{ album.artist}}</p>
+                    <p class="card-text">{{ album.age}}</p>
 
+                </div>
             </div>
-
         </article>
     </div>
 
