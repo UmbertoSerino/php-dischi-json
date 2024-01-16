@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Thriller",
+        "artist": "Michale Jackson",
+        "age": "1992",
+        "img": "https://m.media-amazon.com/images/I/712aTlKjhqL._UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Bad",
+        "artist": "Michale Jackson",
+        "age": "1987",
+        "img": "https://m.media-amazon.com/images/I/71rWMh8QHnL._UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Dangerous",
+        "artist": "Michale Jackson",
+        "age": "1991",
+        "img": "https://i1.sndcdn.com/artworks-jwzsasRNrOqS845s-KFMSQA-t500x500.jpg"
+    },
+    {
+        "title": "Off the Wall",
+        "artist": "Michale Jackson",
+        "age": "1979",
+        "img": "https://i.ytimg.com/vi/eymU-esqtHs/maxresdefault.jpg"
+    },
+    {
+        "title": "Forever, Michael",
+        "artist": "Michale Jackson",
+        "age": "1975",
+        "img": "https://m.media-amazon.com/images/I/51cQYT6ynmL._UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "HIStory: Past, Present and Future - Book I",
+        "artist": "Michale Jackson",
+        "age": "1979",
+        "img": "https://m.media-amazon.com/images/I/71+BZtpaoUL._AC_UF1000,1000_QL80_.jpg"
+    }
+]
