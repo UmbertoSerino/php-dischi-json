@@ -3,7 +3,7 @@ const { createApp } = Vue
 createApp({
     data() {
         return {
-            apiUrl: 'http://127.0.0.1/repo_di_prova/PHP/php-dischi-json/php/script.php',
+            apiUrl: './php/script.php',
             albums: [],
         }
     },

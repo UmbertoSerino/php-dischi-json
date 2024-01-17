@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+}
+
 div.my_wrapper {
     width: 18rem;
 }
